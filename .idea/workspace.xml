@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bee2da93-edb1-40ed-9982-c3cea941aeb5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1coBZp33laRwSdL6fKYc08DCiP7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../js форма авторизации на express mongodb react nodejs" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ifabr\Desktop\JavaScript\Задачки от Олега\js диалог с консультантом на сайте" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bee2da93-edb1-40ed-9982-c3cea941aeb5" name="Default Changelist" comment="" />
+      <created>1591185123069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591185123069</updated>
+      <workItem from="1591185124611" duration="2425000" />
+      <workItem from="1591255336048" duration="8640000" />
+      <workItem from="1591527233544" duration="2204000" />
+      <workItem from="1591607329959" duration="13685000" />
+      <workItem from="1591799935621" duration="5922000" />
+      <workItem from="1591946535130" duration="9680000" />
+      <workItem from="1592057197539" duration="928000" />
+      <workItem from="1592312461535" duration="14268000" />
+      <workItem from="1592373645644" duration="9239000" />
+      <workItem from="1592489721399" duration="2121000" />
+      <workItem from="1592551750597" duration="18142000" />
+      <workItem from="1593190060907" duration="68000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="933" y="171" key="FileChooserDialogImpl" timestamp="1593190127471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="933" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593190127471" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1592586297916">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1592586297916" />
+  </component>
+</project>

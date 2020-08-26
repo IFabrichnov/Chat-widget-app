@@ -1,0 +1,108 @@
+.button-chat {
+    width: 50px;
+    height: 50px;
+    background-color: #e9e9e9;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 44px;
+    color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+    transition: transform 1s ease;
+    right: 10px;
+    bottom: 5px;
+    position: absolute;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.fa-comment {
+    vertical-align: middle;
+    margin: 0 0 6px 0;
+    color: #959595;
+}
+
+.fa-comment-slash {
+    vertical-align: middle;
+    margin: 0 0 6px 0;
+    font-size: 25px;
+    color: #959595;
+}
+
+.open {
+    display: block;
+}
+
+.close {
+    display: none;
+}
+
+#wrapper {
+    background: #e9e9e9;
+    width: 250px;
+    height: 370px;
+    border: 0.1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+    position: absolute;
+    right: 10px;
+    bottom: 80px;
+}
+
+form {
+    margin: 0 auto;
+    padding-top: 5px;
+    display: flex;
+    justify-content: space-evenly;
+    height: 30px;
+    background-color: #e9e9e9;
+}
+
+.name-of-chat {
+    border: 0.1px solid rgba(0, 0, 0, 0);
+    border-radius: 10px 10px 0 0;
+    border-bottom: 1px solid #e9e9e9;
+    padding: 10px;
+    font-weight: bold;
+    background: #f2f3f4;
+    width: auto;
+}
+
+#chatbox {
+    text-align: left;
+    padding: 10px;
+    height: 270px;
+    width: auto;
+    overflow: auto;
+}
+
+#usermsg {
+    width: 150px;
+    padding-left: 15px;
+    border: 0.1px solid #e9e9e9;
+    background-color: #e9e9e9;
+    color: black;
+}
+
+#usermsg:focus {
+    outline: none;
+}
+
+#submitmsg {
+    cursor: pointer;
+    padding: 0;
+}
+
+.fal {
+    font-size: 26px;
+}
+
+.fa-envelope {
+    margin-top: 3px;
+    padding: 0;
+    color: #959595;
+}
+
+.error {
+    color: #ff0000;
+}
